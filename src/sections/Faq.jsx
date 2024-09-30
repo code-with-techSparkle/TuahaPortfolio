@@ -12,7 +12,7 @@ const Faq = () => {
                 <div className="container relative z-2 py-28">
                 <div>
                     <h3 className="h3 max-md:h5 max-lg:max-w-md max-w-640 mb-7 text-p4"> 
-                    How can website make bussiness easy.
+                    How can website make bussiness easy and Affordable.
                     </h3>
                     <p className="body-1 max-lg:max-w-sm">You've got question, we've got answere.</p>
                 </div>
